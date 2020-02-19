@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1582105775,
+	"version": 1582108037,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -15,7 +15,6 @@
 		"images/boneco8-sheet0.png",
 		"images/boneco0-sheet0.png",
 		"images/selectedplayer-sheet0.png",
-		"images/selectedplayer-sheet1.png",
 		"images/portrait-sheet0.png",
 		"images/portrait-sheet1.png",
 		"images/portrait-sheet2.png",
